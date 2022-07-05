@@ -4,6 +4,9 @@ function Cat(head) {
 	this.eat = function(mouse) {
 		this.stomach.push(mouse)
 	}
+	this.swim = function() {
+		console.log("Swimming...")
+	}
 }
 
 module.exports = Cat;

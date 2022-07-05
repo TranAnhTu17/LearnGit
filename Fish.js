@@ -4,6 +4,6 @@ class Fish {
 		this.body = body;
 	}
 	swim() {
-		
+		console.log("Swimming...")
 	}
 }

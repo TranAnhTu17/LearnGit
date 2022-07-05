@@ -1,6 +1,7 @@
 class Fish {
-	constructor() {
+	constructor(head, body) {
 		this.head = head;
+		this.body = body;
 	}
 	swim() {
 		

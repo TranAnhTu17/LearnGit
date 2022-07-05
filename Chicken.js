@@ -1,5 +1,6 @@
 class Chicken {
-	constructor() {
+	constructor(foot, stomach) {
 		this.foot = foot;
+		this.stomach = stomach;
 	}
 }

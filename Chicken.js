@@ -3,4 +3,7 @@ class Chicken {
 		this.foot = foot;
 		this.stomach = stomach;
 	}
+	eat() {
+		console.log("Eating...")
+	}
 }

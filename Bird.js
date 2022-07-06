@@ -5,4 +5,7 @@ class Bird {
 	fly() {
 		console.log("Flying...")
 	}
+	run() {
+		console.log("Running...")
+	}
 }

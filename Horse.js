@@ -8,4 +8,7 @@ class Horse {
 	swim() {
 		console.log("Revert: Swimming...")
 	}
+	sleep() {
+		console.log("Sleeping...")
+	}
 }

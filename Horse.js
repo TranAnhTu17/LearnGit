@@ -11,4 +11,7 @@ class Horse {
 	jump() {
 		console.log("Jumping...")
 	}
+	sleep() {
+		console.log("Sleeping...")
+	}
 }

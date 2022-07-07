@@ -6,4 +6,7 @@ class Fish {
 	swim() {
 		console.log("Swimming...")
 	}
+	jump() {
+		console.log("Jumping...")
+	}
 }

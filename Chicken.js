@@ -4,6 +4,6 @@ class Chicken {
 		this.stomach = stomach;
 	}
 	eat() {
-		console.log("Eating...")
+		console.log("Change: Eating...")
 	}
 }

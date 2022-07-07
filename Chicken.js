@@ -6,6 +6,9 @@ class Chicken {
 	eat() {
 		console.log("Change: Eating...")
 	}
+	run() {
+		console.log("Running...")
+	}
 	jump() {
 		console.log("Jumping...")
 	}

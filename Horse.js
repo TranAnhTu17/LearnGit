@@ -5,7 +5,4 @@ class Horse {
 	walk() {
 		console.log("Walking...")
 	}
-	swim() {
-		console.log("Swimming...")
-	}
 }

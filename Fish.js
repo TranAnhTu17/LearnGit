@@ -9,4 +9,7 @@ class Fish {
 	jump() {
 		console.log("Jumping...")
 	}
+	run() {
+		console.log("Running...")
+	}
 }

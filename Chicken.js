@@ -9,4 +9,7 @@ class Chicken {
 	run() {
 		console.log("Running...")
 	}
+	jump() {
+		console.log("Jumping...")
+	}
 }
